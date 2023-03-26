@@ -1,6 +1,6 @@
 chrome.contextMenus.create({
   id: "my-context-menu",
-  title: "rightClickMenu",
+  title: "convertWeibosafeLink",
   contexts: ["selection"],
 });
 
